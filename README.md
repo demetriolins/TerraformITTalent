@@ -1,3 +1,5 @@
+O Simbolo do failure no Github está aparecendo pois já foi encerrado a atividade. Mas as imagens comprovam que foram feitas e rodou, tanto no Console da AWS quanto os serviços no Terraform Cloud.
+
 
 ![image](https://github.com/user-attachments/assets/4b015368-109c-404f-95d3-b68c81edea7b)
 
